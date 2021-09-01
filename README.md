@@ -1,0 +1,1 @@
+This is a small project to re-create the Google homepage from scratch to demonstrate some basic proficiency in HTML and CSS.
