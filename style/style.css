@@ -1,0 +1,18 @@
+.parent {
+  width: 100vw;
+  height: 100vh;
+  /* background-color: #dce775; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  color: #ffffff;
+  /* background: #d84315; */
+  padding: 3rem 5rem;
+}
+
+body {
+  margin: 0;
+}
