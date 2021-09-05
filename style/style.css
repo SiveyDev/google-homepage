@@ -1,7 +1,6 @@
 .parent {
   width: 100vw;
   height: 100vh;
-  /* background-color: #dce775; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,12 +8,10 @@
 
 .content {
   color: #ffffff;
-  /* background: #d84315; */
   padding: 3rem 5rem;
 }
 
 .rightli {
-    /* display: inline; */
     float: right;
 }
 
@@ -55,7 +52,6 @@ li:hover {
 a {
     display: block;
     padding: 8px;
-    /* background-color: white; */
     color: #000;
     opacity: 0.75;
     text-decoration: none;
